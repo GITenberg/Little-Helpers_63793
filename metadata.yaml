@@ -1,5 +1,8 @@
 _repo: Little-Helpers_63793
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63793-h/images/cover.jpg
 creator:
   author:
     agent_name: Vandegrift, Margaret
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52606
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Thomson_Janvier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63793#Little-Helpers
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
